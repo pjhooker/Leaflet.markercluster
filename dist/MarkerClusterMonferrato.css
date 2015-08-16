@@ -21,11 +21,11 @@
 
 .marker-cluster {
 	background-clip: padding-box;
-	border-radius: 100px;
+	border-radius: 20px;
 	}
 .marker-cluster div {
-	width: 30px;
-	height: 30px;
+	width: 100px;
+	height: 100px;
 	margin-left: 5px;
 	margin-top: 5px;
 
